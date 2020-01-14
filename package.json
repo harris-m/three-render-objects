@@ -42,7 +42,7 @@
     "kapsule": "^1.12.1",
     "polished": "^3.4.2",
     "three-fly-controls": "^1.1.0",
-    "three-orbit-controls": "^82.1.0",
+    "three-orbit-controls": "github:harris-m/three-orbit-controls",
     "three-trackballcontrols": "^0.0.8"
   },
   "peerDependencies": {
